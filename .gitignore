@@ -1,6 +1,6 @@
 target/
-!**/src/main/**/target/
-!**/src/test/**/target/
+!**/target/
+!**/target/
 
 ### VS Code ###
 .vscode/
